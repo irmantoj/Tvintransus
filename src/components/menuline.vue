@@ -9,10 +9,10 @@
             <router-link to="/about">{{ $t("menuline.about") }}</router-link>
           </li>
           <li>
-            <router-link to="/">{{ $t("menuline.gallery") }}</router-link>
+            <router-link to="/" exact>{{ $t("menuline.gallery") }}</router-link>
           </li>
           <li>
-            <router-link to="/">{{ $t("menuline.services") }}</router-link>
+            <router-link to="/" exact>{{ $t("menuline.services") }}</router-link>
           </li>
           <li>
             <router-link to="/contacts">{{ $t("menuline.contacts") }}</router-link>
@@ -33,10 +33,10 @@
           <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'en' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'en'" src="../img/gb.svg" height="25px" alt="">
           <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'lt' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'lt'" src="../img/lt.svg" height="25px" alt="">
         </div>
-        <i class="fas fa-bars fa-3x p-2" v-on:click="show = !show"></i>
+        <i class="fas fa-bars fa-3x p-2" v-on:click="showMobMenu = !showMobMenu"></i>
       </div>
       <transition name="slideToggle">
-        <div class="text-center slide-height" v-if="show">
+        <div class="text-center slide-height" v-if="showMobMenu">
           <ul class="">
             <li class="mb-1">
               <router-link class="mob-link" to="/about">{{ $t("menuline.about") }}</router-link>
@@ -63,7 +63,9 @@
 export default {
 
   data () {
-    return {show : false}
+    return {
+      showMobMenu : false
+    }
   }
 }
 </script>
@@ -94,7 +96,7 @@ export default {
     padding : 0;
   }
 
-  .active-menu {
+  .router-link-active {
     background-color: #C7413C;
   }
 
