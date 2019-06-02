@@ -24,10 +24,10 @@
             <p class="d-flex align-items-center justify-content-start"><i class="fas fa-envelope contacts-icon mr-2"></i> irmantoj@gmail.com</p>
           </div>
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7831.367423389665!2d24.03800387575389!3d54.39793695847003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e0b15b02a6c209%3A0x502d9989fce959f7!2sAlytaus+kra%C5%A1totyros+muziejus!5e0!3m2!1slt!2slt!4v1557860653225!5m2!1slt!2slt" width="570" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7831.367423389665!2d24.03800387575389!3d54.39793695847003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e0b15b02a6c209%3A0x502d9989fce959f7!2sAlytaus+kra%C5%A1totyros+muziejus!5e0!3m2!1slt!2slt!4v1557860653225!5m2!1slt!2slt" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
-      <div class="col-md mt-4">
+      <!-- <div class="col-md mt-4">
         <div class="">
           <div class="d-flex justify-content-center">
             <h5 class="mb-3">Parasykite mums</h5>
@@ -45,7 +45,7 @@
             </form>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </div>

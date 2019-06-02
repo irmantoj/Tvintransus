@@ -15,11 +15,11 @@
             <i class="fas fa-user"></i>
           </template>
           <template v-slot:title>
-            Kroviniu transportavimas užsakovams
+            Krovinių transportavimas užsakovams
           </template>
-           <router-link :to="{ name: '', params: {} }">Pilni kroviniai</router-link><br>
-           <router-link :to="{ name: '', params: {} }">Daliniai kroviniai</router-link><br>
-           <router-link :to="{ name: '', params: {} }">Svarbu žinoti</router-link>
+           <router-link to="/full-loads">Pilni kroviniai</router-link><br>
+           <router-link to="/part-loads">Daliniai kroviniai</router-link><br>
+           <router-link to="/important-info">Svarbu žinoti</router-link>
 
         </card>
 
@@ -29,10 +29,10 @@
             <i class="fas fa-truck"></i>
           </template>
           <template v-slot:title>
-            Kroviniu transportavimas vežėjams
+            Krovinių pervežimas transporto įmonėms
           </template>
-          <router-link :to="{ name: '', params: {} }">Siulomi pilni kroviniai</router-link><br>
-          <router-link :to="{ name: '', params: {} }">Siulomi daliniai kroviniai</router-link><br>
+          <router-link to="/suggested-loads">Siūlomi kroviniai</router-link><br>
+          <router-link to="/important-loads-info">Svarbu žinoti</router-link><br>
 
         </card>
 
@@ -43,8 +43,7 @@
           <template v-slot:title>
             Keltų bilietai
           </template>
-          <router-link :to="{ name: '', params: {} }">keltu bilietai transporto imonems</router-link><br>
-          <router-link :to="{ name: '', params: {} }">Svarbu žinoti</router-link>
+          <router-link to="/tickets">Keltų bilietai</router-link><br>
 
         </card>
 
