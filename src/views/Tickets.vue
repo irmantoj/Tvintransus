@@ -3,7 +3,7 @@
 
     <div class="row">
       <div class="col-md">
-        <h1 class="cargo-title">Krovinių pervežimas transporto įmonėms</h1>
+        <h1 class="cargo-title">Keltų bilietai</h1>
       </div>
     </div>
 
@@ -27,15 +27,15 @@
 
     <description>
 
-      <h4 class="description-title">Keltų bilietai</h4>
+      <!-- <h4 class="description-title">Keltų bilietai</h4> -->
 
       <p>Įmonių grupėje per metus užsakome virš 60 000 keltų. Dirbti su keltų bilietais pradėjome nuo 2007
 metų. Dėl ilgalaikio patikimo bendradarbiavimo, P&amp;O Short Sea Ferries Limited ir Scandlines
 Deutschland GmbH įmonės pasirinko mus oficialiais atstovais Baltijos šalims. 2018 m. pagal Estijos
 statistinius duomenis, mūsų įmonių grupės užėmė 2% Talino -Helsinkio transporto priemonių perkėlimo keltais rinkos:</p>
-      <h4>Tvin group transporto priemonių keltų rinkos dalis Talino-Helsinkio rinkoje 2018</h4>
+      <h4>Mūsų krovinių transporto priemonių keltų rinkos dalis Talino-Helsinkio rinkoje 2018</h4>
       <div class="d-flex justify-content-center">
-        <img class="" src="https://i.imgur.com/mikCOgj.png" alt="" height="75%" width="75%">
+        <img class="" src="https://i.imgur.com/tGn2OpA.png" alt="" height="75%" width="75%">
       </div>
       <p>Įsipareigojimų laikymasis, win-win principo siekiamybė, profesionalumas ir patikimumas -
 pagrindiniai ilgalaikio bendradarbiavimo su keltų operatoriais sėkmės veiksniai.</p>
@@ -44,11 +44,21 @@ ir pasiūlom optimaliausius keltais persikėlimo variantus kainos ir laiko atžv
 grupių darbo istoriją iki 2016 metų, dėl darbuotojų neteisingų sprendimų buvo prarasta 18 klientų.
 Dėl šios priežasties buvo patvirtinti vidiniai įmonių grupės klientų aptarnavimo standartai, kurių
 laikosi visi darbuotojai.</p>
-      <p>22% klientų naudojasi mūsų sukurta keltų užsakymų sistema, kuri leidžia gauti keltų patvirtinimo
+      <p>30% klientų naudojasi mūsų sukurta keltų užsakymų sistema, kuri leidžia gauti keltų patvirtinimo
 atsakymus realiu laiku. Mes dirbame klientui, todėl su mumis galima susisiekti 7/24/365. Jei norite
 palikti atsiliepimą apie mūsų suteiktos paslaugos kokybę, prašom rašyti el.adresus:
 info@tvintransus.lt arba skambinti telefono nr: 0037067473716. Visada atsižvelgiam į klientų
 pageidavimus- nes tai mūsų tobulėjimo pagrindas.</p>
+      <h4>Svarbu žinoti</h4>
+      <p>Kelto užsakymui reikalinga informacija: </p>
+      <ul>
+        <li>transporto priemonės tipas, numeriai;</li>
+        <li>plaukimo data; </li>
+        <li>vairuotojų skaičius; </li>
+        <li>temperatūra, jei reikalingas temperatūrinis režimas; </li>
+        <li>un numeris, pavojingumo klasė, pakavimo klasė, krovinio pavadinimas ir svoris, pavojingo krovinio deklaracija- jei krovinis pavojingas (ADR). Svarbu žinoti: naudojant keltą transporto priemonei su mažu kiekiu pavojingo krovinio (limited quantity), vairuotojas visada privalo pateikti pavojingo krovinio deklaraciją ir informuoti apie pavojingą krovinį iš anksto prieš užsakant kelto bilietą; </li>
+        <li>pagal kelto reikalavimus, galimai reikalinga papildoma informacija: vairuotojo duomenys, krovinio svoris, tipas.</li>
+      </ul>
     </description>
 
   </div>

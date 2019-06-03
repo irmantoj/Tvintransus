@@ -1,5 +1,5 @@
 <template lang="html">
-  <div class="row mt-4">
+  <div class="row mt-4 mb-4">
     <div class="col-md">
       <div class="description-content p-3">
         <slot></slot>

@@ -1,5 +1,5 @@
 <template lang="html">
-    <div class="col-md">
+    <!-- <div class="col-md"> -->
       <div class="card" style="height : 395px">
         <div class="d-flex align-items-center justify-content-center card-top">
           <slot name="icon"></slot>
@@ -9,7 +9,7 @@
           <slot></slot>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
 </template>
 
 <script>
@@ -25,6 +25,7 @@ export default {
   width: 100%;
   font-size: 7rem;
 }
+
 
 
 </style>

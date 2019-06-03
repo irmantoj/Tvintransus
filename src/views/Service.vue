@@ -7,46 +7,59 @@
         </div>
       </div>
 
-      <div class="row h">
+      <div class="row mb-4">
 
-        <card class="mt-4">
+        <div class="col-md">
+          <router-link class="card-link" to="/loads-transportation-for-customers">
+            <card class="mt-4">
 
-          <template v-slot:icon>
-            <i class="fas fa-user"></i>
-          </template>
-          <template v-slot:title>
-            Krovinių transportavimas užsakovams
-          </template>
-           <router-link to="/full-loads">Pilni kroviniai</router-link><br>
-           <router-link to="/part-loads">Daliniai kroviniai</router-link><br>
-           <router-link to="/important-info">Svarbu žinoti</router-link>
+              <template v-slot:icon>
+                <i class="fas fa-user"></i>
+              </template>
+              <template v-slot:title>
+                Krovinių transportavimas užsakovams
+              </template>
+               <router-link to="/loads-transportation-for-customers">Pilni kroviniai</router-link><br>
+               <router-link to="/loads-transportation-for-customers">Daliniai kroviniai</router-link><br>
+               <router-link to="/loads-transportation-for-customers">Svarbu žinoti</router-link>
 
-        </card>
+            </card>
+          </router-link>
+        </div>
 
-        <card class="mt-4">
+        <div class="col-md">
+          <router-link class="card-link" to="/loads-transportation-for-companies">
+            <card class="mt-4">
 
-          <template v-slot:icon>
-            <i class="fas fa-truck"></i>
-          </template>
-          <template v-slot:title>
-            Krovinių pervežimas transporto įmonėms
-          </template>
-          <router-link to="/suggested-loads">Siūlomi kroviniai</router-link><br>
-          <router-link to="/important-loads-info">Svarbu žinoti</router-link><br>
+              <template v-slot:icon>
+                <i class="fas fa-truck"></i>
+              </template>
+              <template v-slot:title>
+                Krovinių pervežimas transporto įmonėms
+              </template>
+              <router-link to="/loads-transportation-for-companies">Siūlomi pilni kroviniai</router-link><br>
+              <router-link to="/loads-transportation-for-companies">Siūlomi daliniai kroviniai</router-link><br>
 
-        </card>
+            </card>
+          </router-link>
+        </div>
 
-        <card class="mt-4">
-          <template v-slot:icon>
-            <i class="fas fa-ticket-alt"></i>
-          </template>
-          <template v-slot:title>
-            Keltų bilietai
-          </template>
-          <router-link to="/tickets">Keltų bilietai</router-link><br>
+        <div class="col-md">
+          <router-link class="card-link" to="/tickets">
+            <card class="mt-4">
 
-        </card>
+              <template v-slot:icon>
+                <i class="fas fa-ticket-alt"></i>
+              </template>
+              <template v-slot:title>
+                Keltų bilietai
+              </template>
+              <router-link to="/tickets">Keltų bilietai</router-link><br>
+              <router-link to="/tickets">Svarbu žinoti</router-link><br>
 
+            </card>
+          </router-link>
+        </div>
       </div>
     </div>
 
@@ -69,6 +82,10 @@ export default {
   .service-title {
     border-bottom: 3px solid #EEEFF2;
     padding-bottom: 20px;
+  }
+
+  .card-link {
+    color: black;
   }
 
   /* .h {
