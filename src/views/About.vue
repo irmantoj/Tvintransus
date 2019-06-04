@@ -2,11 +2,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md">
-        
+
       </div>
     </div>
     <description>
-      <h3 class="text-center">Mūsų misija:</h3>
+      <h5 class="text-center">Mūsų misija:</h5>
       <h3 class="text-center mb-4 color-red">padaryti geriau, nei tikėtasi, užsakant paslaugą.</h3>
     <div class="row">
 
