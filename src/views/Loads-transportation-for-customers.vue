@@ -32,7 +32,7 @@
 
       <h4 class="description-title">Daliniai kroviniai</h4>
       <p>Tvintransus UAB teikia vietinių ir  tarptautinių dalinių krovinių gabenimo paslaugas užsakovams. Gabename dalinius krovinius iš/į ES ir Baltijos šalis, Baltijos šalyse.</p>
-      <p>Dalinių krovinių gabenimas padeda sutaupyti, nes užsakoma ne visa transporto priemonė. Gabenant dalinus krovinius, galima vežti tiesiogiai- į transporto priemonę pakraunant kelių užsakovų krovinius arba per terminalą-iš užsakovo paimamas krovinys, vežamas į terminalą, kur krovinys sukomplektuojamas su kitais kroviniais ir pervežamas į paskirties šalies terminalą, iš kurio krovinys pristatomas užsakovui. --></p>
+      <p>Dalinių krovinių gabenimas padeda sutaupyti, nes užsakoma ne visa transporto priemonė. Gabenant dalinus krovinius, galima vežti tiesiogiai- į transporto priemonę pakraunant kelių užsakovų krovinius arba per terminalą-iš užsakovo paimamas krovinys, vežamas į terminalą, kur krovinys sukomplektuojamas su kitais kroviniais ir pervežamas į paskirties šalies terminalą, iš kurio krovinys pristatomas užsakovui.</p>
 
       <h4 class="description-title">Svarbu žinoti</h4>
       <p>Norint pateikti krovinio užsakymą krovinio pervežimui, reikalinga nurodyti informaciją:</p>

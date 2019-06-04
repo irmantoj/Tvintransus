@@ -21,8 +21,8 @@
 
       </nav>
       <div class="col-md menu-lang d-flex justify-content-end">
-        <img class="mx-2 flag"  v-bind:class="[$i18n.locale !== 'en' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'en'" src="https://i.imgur.com/cjxtMC9.jpg" height="25px" alt="">
-        <img class="mx-2 flag"  v-bind:class="[$i18n.locale !== 'lt' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'lt'" src="https://i.imgur.com/Iu3BPXi.jpg" height="25px" alt="">
+        <!-- <img class="mx-2 flag"  v-bind:class="[$i18n.locale !== 'en' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'en'" src="https://i.imgur.com/cjxtMC9.jpg" height="25px" alt="">
+        <img class="mx-2 flag"  v-bind:class="[$i18n.locale !== 'lt' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'lt'" src="https://i.imgur.com/Iu3BPXi.jpg" height="25px" alt=""> -->
       </div>
 
     </div>
@@ -30,8 +30,8 @@
     <div class="d-md-none mob-menu">
       <div class="d-flex justify-content-between">
         <div class="">
-          <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'en' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'en'" src="https://i.imgur.com/cjxtMC9.jpg" height="25px" alt="">
-          <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'lt' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'lt'" src="https://i.imgur.com/Iu3BPXi.jpg" height="25px" alt="">
+          <!-- <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'en' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'en'" src="https://i.imgur.com/cjxtMC9.jpg" height="25px" alt="">
+          <img class="mx-2 my-3 flag"  v-bind:class="[$i18n.locale !== 'lt' ? 'menu-flag' : '']" v-on:click="$i18n.locale = 'lt'" src="https://i.imgur.com/Iu3BPXi.jpg" height="25px" alt=""> -->
         </div>
         <i class="fas fa-bars fa-3x p-2" v-on:click="showMobMenu = !showMobMenu"></i>
       </div>
@@ -75,13 +75,13 @@ export default {
   ul {
     list-style: none;
     padding: 0;
-    background-color: #F05E61;
+    background-color: #DD2A1B;
     margin-bottom: 20px;
     padding: 10px 20px;
   }
   nav a {
     color : white;
-    background-color: #F05E61;
+    background-color: #DD2A1B;
     padding: 11px 20px;
   }
   nav li {
@@ -97,13 +97,13 @@ export default {
   }
 
   .router-link-active {
-    background-color: #C7413C;
+    background-color: #CC2A1B;
   }
 
   /* lang menu */
 
   .menu-lang {
-    background-color: #F05E61;
+    background-color: #DD2A1B;
     margin-bottom: 20px;
     padding: 8px 20px;
   }
@@ -117,12 +117,12 @@ export default {
   }
 
   .mob-menu {
-    background-color: #F05E61;
+    background-color: #DD2A1B;
   }
 
   .mob-link {
     color : white;
-    background-color: #F05E61;
+    background-color: #DD2A1B;
   }
 
   .slideToggle-enter-active, .slideToggle-leave-active {

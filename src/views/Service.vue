@@ -19,9 +19,9 @@
               <template v-slot:title>
                 Krovinių transportavimas užsakovams
               </template>
-               <router-link to="/loads-transportation-for-customers">Pilni kroviniai</router-link><br>
-               <router-link to="/loads-transportation-for-customers">Daliniai kroviniai</router-link><br>
-               <router-link to="/loads-transportation-for-customers">Svarbu žinoti</router-link>
+               <router-link class="color-red" to="/loads-transportation-for-customers">Pilni kroviniai</router-link><br>
+               <router-link class="color-red" to="/loads-transportation-for-customers">Daliniai kroviniai</router-link><br>
+               <router-link class="color-red" to="/loads-transportation-for-customers">Svarbu žinoti</router-link>
 
             </card>
           </router-link>
@@ -37,8 +37,8 @@
               <template v-slot:title>
                 Krovinių pervežimas transporto įmonėms
               </template>
-              <router-link to="/loads-transportation-for-companies">Siūlomi pilni kroviniai</router-link><br>
-              <router-link to="/loads-transportation-for-companies">Siūlomi daliniai kroviniai</router-link><br>
+              <router-link class="color-red" to="/loads-transportation-for-companies">Siūlomi pilni kroviniai</router-link><br>
+              <router-link class="color-red" to="/loads-transportation-for-companies">Siūlomi daliniai kroviniai</router-link><br>
 
             </card>
           </router-link>
@@ -54,8 +54,8 @@
               <template v-slot:title>
                 Keltų bilietai
               </template>
-              <router-link to="/tickets">Keltų bilietai</router-link><br>
-              <router-link to="/tickets">Svarbu žinoti</router-link><br>
+              <router-link class="color-red" to="/tickets">Keltų bilietai</router-link><br>
+              <router-link class="color-red" to="/tickets">Svarbu žinoti</router-link><br>
 
             </card>
           </router-link>
@@ -88,9 +88,10 @@ export default {
     color: black;
   }
 
-  /* .h {
-    min-height: 550px;
-    height : auto;
+  /* .color-red {
+    color : #FF2A1B;
+    font-weight: 500;
+
   } */
 
 </style>

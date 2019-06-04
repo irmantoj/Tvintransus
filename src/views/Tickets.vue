@@ -35,7 +35,7 @@ Deutschland GmbH įmonės pasirinko mus oficialiais atstovais Baltijos šalims. 
 statistinius duomenis, mūsų įmonių grupės užėmė 2% Talino -Helsinkio transporto priemonių perkėlimo keltais rinkos:</p>
       <h4>Mūsų krovinių transporto priemonių keltų rinkos dalis Talino-Helsinkio rinkoje 2018</h4>
       <div class="d-flex justify-content-center">
-        <img class="" src="https://i.imgur.com/tGn2OpA.png" alt="" height="75%" width="75%">
+        <img class="" src="https://i.imgur.com/hmXstfj.png" alt="" height="75%" width="75%">
       </div>
       <p>Įsipareigojimų laikymasis, win-win principo siekiamybė, profesionalumas ir patikimumas -
 pagrindiniai ilgalaikio bendradarbiavimo su keltų operatoriais sėkmės veiksniai.</p>

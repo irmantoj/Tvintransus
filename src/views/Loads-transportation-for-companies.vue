@@ -31,14 +31,14 @@
       <ul>
         <li>operatyvų krovinio pakrovimą, iškrovimą;</li>
         <li>operatyvų informacijos pateikimą;</li>
-        <li>sutartą laiku atsiskaitymą;</li>
+        <li>sutartą laiku atsiskaitymą.</li>
       </ul>
       <p>Naujiems partneriams, kaip patikimumo garantą galime pasiūlyti su mumis dirbančių įmonių rekomendacijas. Įmonės pasiekimai:  laimėta Klaipėdos apskrities Gazelė, kasmetinis įmonių grupės apyvartos augimas 20 %, keleri metai iš eilės patenkam į Creditreform Lietuva UAB  5% stabiliausių įmonių sąrašą:</p>
 
       <ol>
         <li>2011 m. UAB Tvintransus tapo sparčiausiai augusia Klaipėdos apskrities “gazele”. Įvertinimas
 atliktas remiantis kasmetiniu apyvartos augimu.</li>
-        <li>2)Pastaraisiais metais patenkam į 5% Lietuvos stabiliausių įmonių sąrašą, Creditreform Lietuva UAB
+        <li>Pastaraisiais metais patenkam į 5% Lietuvos stabiliausių įmonių sąrašą, Creditreform Lietuva UAB
 duomenimis. Įvertinimas atliekamas remiantis Creditreform Lietuva UAB metodika ir kelių metų
 įmonės padėties rinkoje ir vystymosi analize.</li>
       </ol>
@@ -52,7 +52,7 @@ duomenimis. Įvertinimas atliekamas remiantis Creditreform Lietuva UAB metodika 
       </ul>
 
       <h4 class="description-title">Siūlomi daliniai kroviniai</h4>
-      <p>Transporto įmonėms siūlome dalinius krovinius Baltijos, ES ir NVS šalyse. </p>
+      <p>Transporto įmonėms siūlome dalinius krovinius Baltijos, ES ir NVS šalyse.</p>
     </description>
 
   </div>

@@ -1,15 +1,13 @@
 <template lang="html">
   <div class="container">
-
     <div class="row">
       <div class="col-md">
-        <h1 class="about-title">Apie mus</h1>
+        
       </div>
     </div>
-
     <description>
-      <h2 class="text-center">Mūsų misija:</h2>
-      <h3 class="text-center mb-4">daugiau nei tikiesi</h3>
+      <h3 class="text-center">Mūsų misija:</h3>
+      <h3 class="text-center mb-4 color-red">padaryti geriau, nei tikėtasi, užsakant paslaugą.</h3>
     <div class="row">
 
       <div class="col-md">
@@ -76,6 +74,10 @@ export default {
 .about-content {
   border : 1px #EEEFF2 groove;
   background-color: #EEEFF2;
+}
+
+.color-red {
+  color : #DD2A1B;
 }
 
 </style>

@@ -16,11 +16,10 @@ import Service from "./views/Service.vue"
 import Contacts from "./views/Contacts.vue"
 import ForCustomers from "./views/Loads-transportation-for-customers.vue"
 import ForCompanies from "./views/Loads-transportation-for-companies.vue"
+import Tickets from "./views/Tickets.vue"
 
 import ImportantInfo from "./views/Important-info.vue"
-import Partload from "./views/Part-load.vue"
 import ImportantLoadsInfo from "./views/Important-loads-info.vue"
-import Tickets from "./views/Tickets.vue"
 
 
 const routes = [
@@ -29,10 +28,10 @@ const routes = [
   {path:'/contacts', component: Contacts},
   {path:'/loads-transportation-for-customers', component: ForCustomers},
   {path:'/loads-transportation-for-companies', component: ForCompanies},
+  {path:'/tickets', component: Tickets},
 
   {path:'/important-info', component: ImportantInfo},
   {path:'/important-loads-info', component: ImportantLoadsInfo},
-  {path:'/tickets', component: Tickets},
 
 ]
 
