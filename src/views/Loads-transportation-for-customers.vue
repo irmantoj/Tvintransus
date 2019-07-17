@@ -25,22 +25,21 @@
     </top>
 
     <description>
-      <h4 class="description-title">Pilni kroviniai:  tentiniais sunkvežimiais, šaldytuvinėmis puspriekabėmis, sausumos ir jūros transportu</h4>
-      <p>Tvintransus UAB teikia vietinių ir  tarptautinių pilnų krovinių gabenimo paslaugas užsakovams. Gabename pilnus krovinius iš/į ES ir Baltijos šalis, Baltijos šalyse, taip pat vežame krovinius į/iš NVS šalis.
-      Gabename  krovinius tentinėmis, šaldytuvinėmis puspriekabėmis, taip pat gabename ir pavojingus visų klasių ADR krovinius.</p>
-      <p>Dirbame su Lietuvos ir ES šalių prekybos ir gamybos įmonėmis. Visada siūlome kliento poreikius atitinkančią paslaugą už konkurencingą kainą, taip auginame klientų ratą. Metinis įmonių grupių apyvartos augimas 20 %.</p>
+      <h4 class="description-title">{{ $t("customers.titles[0]") }}</h4>
+      <p>{{ $t("customers.paragraphs[0]") }}</p>
+      <p>{{ $t("customers.paragraphs[1]") }}</p>
 
-      <h4 class="description-title">Daliniai kroviniai</h4>
-      <p>Tvintransus UAB teikia vietinių ir  tarptautinių dalinių krovinių gabenimo paslaugas užsakovams. Gabename dalinius krovinius iš/į ES ir Baltijos šalis, Baltijos šalyse.</p>
-      <p>Dalinių krovinių gabenimas padeda sutaupyti, nes užsakoma ne visa transporto priemonė. Gabenant dalinus krovinius, galima vežti tiesiogiai- į transporto priemonę pakraunant kelių užsakovų krovinius arba per terminalą-iš užsakovo paimamas krovinys, vežamas į terminalą, kur krovinys sukomplektuojamas su kitais kroviniais ir pervežamas į paskirties šalies terminalą, iš kurio krovinys pristatomas užsakovui.</p>
+      <h4 class="description-title">{{ $t("customers.titles[1]") }}</h4>
+      <p>{{ $t("customers.paragraphs[2]") }}</p>
+      <p>{{ $t("customers.paragraphs[3]") }}</p>
 
-      <h4 class="description-title">Svarbu žinoti</h4>
-      <p>Norint pateikti krovinio užsakymą krovinio pervežimui, reikalinga nurodyti informaciją:</p>
+      <h4 class="description-title">{{ $t("customers.titles[2]") }}</h4>
+      <p>{{ $t("customers.paragraphs[4]") }}</p>
       <ul>
-        <li>pasikrovimo, išsikrovimo vietos ir datos;</li>
-        <li>krovinio pavadinimas, išmatavimai, svoris;</li>
-        <li>kroviniui su temperatūriniu režimu- reikalinga temperatūra;</li>
-        <li>pavojingam kroviniui: UN numeris, klasė, pakavimo klasė.</li>
+        <li>{{ $t("customers.listItems[0]") }}</li>
+        <li>{{ $t("customers.listItems[1]") }}</li>
+        <li>{{ $t("customers.listItems[2]") }}</li>
+        <li>{{ $t("customers.listItems[3]") }}</li>
       </ul>
     </description>
 

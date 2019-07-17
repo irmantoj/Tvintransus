@@ -2,12 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md">
-
+        <h1 class="about-title">Apie mus</h1>
       </div>
     </div>
     <description>
-      <h5 class="text-center">Mūsų misija:</h5>
-      <h3 class="text-center mb-4 color-red">padaryti geriau, nei tikėtasi, užsakant paslaugą.</h3>
+      <!-- <h5 class="text-center">Mūsų misija:</h5> -->
+      <!-- <h3 class="text-center mb-4 color-red">Padaryti geriau, nei tikėtasi, užsakant paslaugą.</h3> -->
     <div class="row">
 
       <div class="col-md">
@@ -30,7 +30,7 @@ augusia Klaipėdos apskrities &quot;gazele&quot;.
 Įvertinimas atliktas remiantis kasmetiniu
 apyvartos augimu.</p>
         <p class="mb-1">
-          Pastaraisiais metais patenkam į 5% Lietuvos
+          Pastaraisiais metais patenkame į 5% Lietuvos
 stabiliausių įmonių sąrašą, Creditreform
 Lietuva UAB duomenimis. Įvertinimas
 atliekamas remiantis Creditreform Lietuva
@@ -39,10 +39,10 @@ rinkoje ir vystymosi analize.
         </p>
         <p class="mb-1">
           Kasmet UAB Tvintransus apyvarta auga 20%.
-Mums rūpi gamta- nuo 2016 m. sumažinom
-90 % popieriaus sunaudojimą, didžiają dalį
+Mums rūpi gamta- nuo 2016 m. sumažinome
+90 % popieriaus sunaudojimą, didžiąją dalį
 informacijos perkėlę į elektroninę erdvę.
-Mums rūpi vaikai- 2017 m. pildėm Kalėdines
+Mums rūpi vaikai- 2017m. pildėme Kalėdines
 vaikų svajones.
         </p>
       </div>

@@ -72,16 +72,20 @@ export default {
 
 <style lang="css" scoped>
 
+  i {
+    color : white
+  }
+
   ul {
     list-style: none;
     padding: 0;
-    background-color: #DD2A1B;
+    background-color: #303032;
     margin-bottom: 20px;
     padding: 10px 20px;
   }
   nav a {
     color : white;
-    background-color: #DD2A1B;
+    background-color: #303032;
     padding: 11px 20px;
   }
   nav li {
@@ -97,13 +101,13 @@ export default {
   }
 
   .router-link-active {
-    background-color: #CC2A1B;
+    color: #CC2A1B;
   }
 
   /* lang menu */
 
   .menu-lang {
-    background-color: #DD2A1B;
+    background-color: #303032;
     margin-bottom: 20px;
     padding: 8px 20px;
   }
@@ -117,18 +121,18 @@ export default {
   }
 
   .mob-menu {
-    background-color: #DD2A1B;
+    background-color: #303032;
   }
 
   .mob-link {
     color : white;
-    background-color: #DD2A1B;
+    background-color: #303032;
   }
 
   .slideToggle-enter-active, .slideToggle-leave-active {
     transition: all 0.5s;
-    height: 132px;
-    margin-bottom: 20px;
+    height: 100px;
+    margin-bottom: 22px;
   }
   .slideToggle-enter, .slideToggle-leave-to {
     opacity: 0;
