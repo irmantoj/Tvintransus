@@ -3,24 +3,24 @@
 
     <div class="row">
       <div class="col-md">
-        <h1 class="cargo-title">Krovinių transportavimas užsakovams</h1>
+        <h1 class="cargo-title">{{ $t("customers.mainTitle") }}</h1>
       </div>
     </div>
 
     <top>
       <template v-slot:first>
-        <p class="top-p">Nuo 2017 m.</p>
-        <h2 class="top-h">Patikimumas</h2>
-        <p class="top-p">tarp 5% stabiliausių Lietuvos įmonių</p>
+        <p class="top-p">{{ $t("customers.top[0][0]") }}</p>
+        <h2 class="top-h">{{ $t("customers.top[0][1]") }}</h2>
+        <p class="top-p">{{ $t("customers.top[0][2]") }}</p>
       </template>
       <template v-slot:second>
-        <p class="top-p">2012 m.</p>
-        <h2 class="top-h">Klaipėdos Gazelė</h2>
+        <p class="top-p">{{ $t("customers.top[1][0]") }}</p>
+        <h2 class="top-h">{{ $t("customers.top[1][1]") }}</h2>
       </template>
       <template v-slot:third>
-        <p class="top-p">Kasmetinis</p>
-        <h2 class="top-h">20% +</h2>
-        <p class="top-p">apyvartos augimas</p>
+        <p class="top-p">{{ $t("customers.top[2][0]") }}</p>
+        <h2 class="top-h">{{ $t("customers.top[2][1]") }}</h2>
+        <p class="top-p">{{ $t("customers.top[2][2]") }}</p>
       </template>
     </top>
 

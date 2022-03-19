@@ -12,9 +12,9 @@
       <div class="row">
 
         <div class="col-md">
-          <h1 class="text-center contacts-title">Susisiekite</h1>
+          <h1 class="text-center contacts-title">{{ $t("contacts.title") }}</h1>
           <div class="">
-            <p class="text-center">Vytauto g. 71, <br> Kretinga, <br> LT97321 Lietuva</p>
+            <p class="text-center">{{ $t("contacts.street") }}, <br> Kretinga, <br> LT97321 Lietuva</p>
             <p class="text-center">0037067463716</p>
             <p class="text-center">logistika@tvintransus.lt</p>
           </div>

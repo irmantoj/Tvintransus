@@ -3,7 +3,7 @@
 
       <div class="row">
         <div class="col-md">
-          <h1 class="service-title">Paslaugos</h1>
+          <h1 class="service-title">{{ $t("service.mainTitle") }}</h1>
         </div>
       </div>
 
@@ -17,7 +17,7 @@
                 <img class="circle-pic" src="https://i.imgur.com/1GRm93a.jpg" alt="">
               </template>
               <template v-slot:title>
-                <h5 class="mt-4 text-center title-hover">Krovinių transportavimas užsakovams</h5>
+                <h5 class="mt-4 text-center title-hover">{{ $t("service.titles[0]") }}</h5>
               </template>
             </rounded>
 
@@ -44,7 +44,7 @@
                 <img class="circle-pic" src="https://i.imgur.com/HK0lv8Q.jpg" alt="">
               </template>
               <template v-slot:title>
-                <h5 class="mt-4 text-center title-hover">Krovinių pervežimas transporto įmonėms</h5>
+                <h5 class="mt-4 text-center title-hover">{{ $t("service.titles[1]") }}</h5>
               </template>
             </rounded>
 
@@ -71,7 +71,7 @@
                 <img class="circle-pic" src="https://i.imgur.com/sZpiSOw.jpg" alt="">
               </template>
               <template v-slot:title>
-                <h5 class="mt-4 text-center title-hover">Keltų bilietai</h5>
+                <h5 class="mt-4 text-center title-hover">{{ $t("service.titles[2]") }}</h5>
               </template>
             </rounded>
 
@@ -102,7 +102,7 @@ import rounded from "./../components/rounded.vue"
 export default {
 
   components: {card, rounded}
-  
+
 }
 
 

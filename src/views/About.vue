@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md">
-        <h1 class="about-title">Apie mus</h1>
+        <h1 class="about-title">{{ $t("about.mainTitle") }}</h1>
       </div>
     </div>
     <description>
@@ -11,40 +11,12 @@
     <div class="row">
 
       <div class="col-md">
-        <p class="mb-1">UAB Tvintransus teikia transporto paslaugas
-    transporto įmonėms ir krovinius vežantiems
-    klientams. Patirtis, patikimumas,
-    profesionalumas, paprastumas, pigumas- 5P
-    principai, kuriais vadovaujasi visa įmonių
-    grupės darbuotojų komanda. Dirbame
-    klientui, todėl su mumis galima susisiekti
-    7/24/365. Dėl ilgalaikio patikimo
-    bendradarbiavimo, P&amp;O Short Sea Ferries
-    Limited ir Scandlines Deutschland GmbH
-    įmonės pasirinko mus oficialiais atstovais
-    Baltijos šalims.</p>
+        <p class="mb-1">{{ $t("about.paragraphs[0]") }}</p>
       </div>
       <div class="col-md">
-        <p class="mb-1">2012 m. UAB Tvintransus tapo sparčiausiai
-augusia Klaipėdos apskrities &quot;gazele&quot;.
-Įvertinimas atliktas remiantis kasmetiniu
-apyvartos augimu.</p>
-        <p class="mb-1">
-          Pastaraisiais metais patenkame į 5% Lietuvos
-stabiliausių įmonių sąrašą, Creditreform
-Lietuva UAB duomenimis. Įvertinimas
-atliekamas remiantis Creditreform Lietuva
-UAB metodika ir kelių metų įmonės padėties
-rinkoje ir vystymosi analize.
-        </p>
-        <p class="mb-1">
-          Kasmet UAB Tvintransus apyvarta auga 20%.
-Mums rūpi gamta- nuo 2016 m. sumažinome
-90 % popieriaus sunaudojimą, didžiąją dalį
-informacijos perkėlę į elektroninę erdvę.
-Mums rūpi vaikai- 2017m. pildėme Kalėdines
-vaikų svajones.
-        </p>
+        <p class="mb-1">{{ $t("about.paragraphs[1]") }}</p>
+        <p class="mb-1">{{ $t("about.paragraphs[2]") }}</p>
+        <p class="mb-1">{{ $t("about.paragraphs[3]") }}</p>
       </div>
 
     </div>

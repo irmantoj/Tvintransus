@@ -9,7 +9,7 @@
       <div class="row">
 
         <div class="col-md p-2">
-          <p class="mb-1">Vytauto g. 71, Kretinga <br> Lietuva, LT97321</p>
+          <p class="mb-1">{{ $t("contacts.street") }}, Kretinga <br> Lietuva, LT97321</p>
           <p class="mb-1">0037067463716</p>
           <p class="mb-1">logistika@tvintransus.lt</p>
         </div>
@@ -24,7 +24,7 @@
     <div class="container d-md-none">
       <div class="row">
         <div class="col mt-4">
-          <p class="mb-1">Vytauto g. 71, Kretinga <br> Lietuva, LT97321</p>
+          <p class="mb-1">{{ $t("contacts.street") }}, Kretinga <br> Lietuva, LT97321</p>
           <p class="mb-1">0037067463716</p>
           <p class="mb-1">logistika@tvintransus.lt</p>
         </div>

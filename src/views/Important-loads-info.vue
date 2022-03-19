@@ -14,7 +14,7 @@
         <p class="top-p">tarp 5% stabiliausių Lietuvos įmonių</p>
       </template>
       <template v-slot:second>
-        <p class="top-p">2012 m.</p>
+        <p class="top-p">2011 m.</p>
         <h2 class="top-h">Klaipėdos Gazelė</h2>
       </template>
       <template v-slot:third>
