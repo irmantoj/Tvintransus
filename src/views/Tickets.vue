@@ -10,7 +10,7 @@
     <top>
       <template v-slot:first>
         <p class="top-p">{{ $t("tickets.top[0][0]") }}</p>
-        <h2 class="top-h">{{ $t("tickets.top[0][1]") }} +</h2>
+        <h2 class="top-h">{{ $t("tickets.top[0][1]") }}</h2>
         <p class="top-p">{{ $t("tickets.top[0][2]") }}</p>
       </template>
       <template v-slot:second>
