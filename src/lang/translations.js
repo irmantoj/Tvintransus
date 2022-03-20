@@ -30,7 +30,7 @@ const translations = {
 
         "While working with transport companies that are our clients - first of all, we consider the basic needs of the customer and then we offer the most price and time wise effective ferry transfer options. During the company’s working history up to 2016, 18 clients were lost due to employees wrong decisions. For this reason, we confirmed internal group of companies’ customer service standards, that are now followed by all of our staff members.",
 
-        "30% of our customers are using our online ferry booking system, which allows customers to receive ferry confirmations in real time. We are working for the client, so we can be contacted 7/24/365. If you would like to give a feedback about the quality of our services, please send an email to an address info@tvintransus.lt or call +37067473716. We always take into consideration the requests of our customers - this is the key to success.",
+        "30% of our customers are using our online ferry booking system, which allows customers to receive ferry confirmations in real time. We are working for the client, so we can be contacted 7/24/365. If you would like to give a feedback about the quality of our services, please send an email to an address info@tvintransus.lt or call +37067463716. We always take into consideration the requests of our customers - this is the key to success.",
 
         "Required information for ferry booking:"
 
@@ -147,7 +147,7 @@ const translations = {
 
         "Dirbdami su klientais- transporto įmonėmis- pirmiausiai atsižvelgiame į pagrindinius kliento poreikius ir pasiūlome optimaliausius keltais persikėlimo variantus kainos ir laiko atžvilgiu. Per visą įmonės grupių darbo istoriją iki 2016 metų, dėl darbuotojų neteisingų sprendimų buvo prarasta 18 klientų. Dėl šios priežasties buvo patvirtinti vidiniai įmonių grupės klientų aptarnavimo standartai, kurių laikosi visi darbuotojai.",
 
-        "30% klientų naudojasi mūsų sukurta keltų užsakymų sistema, kuri leidžia gauti keltų patvirtinimo atsakymus realiu laiku. Mes dirbame klientui, todėl su mumis galima susisiekti 7/24/365. Jei norite palikti atsiliepimą apie mūsų suteiktos paslaugos kokybę, prašome rašyti el.adresu: info@tvintransus.lt arba skambinti telefonu : +37067473716. Visada atsižvelgiam į klientų pageidavimus, nes tai mūsų tobulėjimo pagrindas.",
+        "30% klientų naudojasi mūsų sukurta keltų užsakymų sistema, kuri leidžia gauti keltų patvirtinimo atsakymus realiu laiku. Mes dirbame klientui, todėl su mumis galima susisiekti 7/24/365. Jei norite palikti atsiliepimą apie mūsų suteiktos paslaugos kokybę, prašome rašyti el.adresu: info@tvintransus.lt arba skambinti telefonu : +37067463716. Visada atsižvelgiam į klientų pageidavimus, nes tai mūsų tobulėjimo pagrindas.",
 
         "Kelto užsakymui reikalinga informacija:"
 
